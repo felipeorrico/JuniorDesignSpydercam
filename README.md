@@ -1,4 +1,4 @@
-# JuniorDesignSpydercam
+# Junior Design Spydercam
 
 The SpyderCam design comes from the need of a cheaper alternative for a HyperRail. With the use of only three pylons, strings and motors, the SpyderCam is far cheaper than the mechanical components that the HyperRail requires. The downside of SpyderCam however, is that it requires a lot more unobstructed space to work properly.
 
